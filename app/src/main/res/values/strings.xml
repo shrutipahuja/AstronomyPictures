@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AstronomyPictures</string>
+    <string name="click_on_an_image_to_view_details">Click on an image to view details!</string>
+    <string name="copyright_string">Copyright: %s</string>
+    <string name="date_s">Date: %s</string>
+    <string name="swipe_for_more">Swipe for more!</string>
+    <string name="apod_picture">APOD Picture</string>
+    <string name="network_offline">Network is offline!</string>
+</resources>
