@@ -4,7 +4,7 @@ This application lets users browse through images parsed from NASA's Astronomy P
 
 Each image has a title, date, image url, etc.
 
-APOD has two screens:
+The app has two screens:
 
 <b>Screen 1: Image Grid Screen</b>
 
@@ -24,7 +24,7 @@ This is a static screen which displays the image, image title, image explanation
 
 <i>Android Studio</i>
 
-Import the project from GitHub using File -> New -> Project from Version Control -> GitHub, fill the URL https://github.com/shrutipahuja/APOD.git
+Import the project from GitHub using File -> New -> Project from Version Control -> GitHub, fill the URL https://github.com/shrutipahuja/astronomypictures.git
 
 It will ask for a base directory, normally AndroidStudioProjects, you can change it to your preference.
 
